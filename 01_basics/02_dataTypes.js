@@ -13,3 +13,5 @@ let name = "Aritra"
 let age = 19
 let isLoggedIn = false
 
+let a = 23
+let b = "aritra mondal"
