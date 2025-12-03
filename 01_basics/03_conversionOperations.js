@@ -19,11 +19,16 @@ console.log(valueInNumber);       // "33" => 33
 let isLoggedIn = "Aritra"
 
 let booleanisLoggedIn = Boolean(isLoggedIn)
-console.log(booleanisLoggedIn)
+console.log(booleanisLoggedIn);
 
 // 1 => true // 0 => false
 // "" => false // "Aritra" => true
 
 let someNumber = 33
+
+let stringNumber = String(someNumber)
+console.log(stringNumber);       // will print 33
+console.log(typeof stringNumber);// but NOT as a number
+                                 // 33 will be a string
 
 
