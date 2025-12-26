@@ -19,18 +19,3 @@ console.log(undefined<0); //with UNDEFINED it is always false
 
 console.log("2"===2); //with === it checks datatype 
                       // and does not convert it to integer type
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
